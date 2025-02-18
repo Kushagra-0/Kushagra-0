@@ -3,8 +3,8 @@
 I am just a curious devloper who likes to learn and experiment with various technologies and is willing to collaborate on new and intersting ideas.
 
 - 🌍 I'm based in India
-- 🧠 I'm currently learning MERN stack
-- 👯 Any intersting projects related to web
+- 🧠 I'm currently learning React Natuve
+- 👯 Interested in building unique products
 - ✉️ You can contact me at kushagrashukla.dev@gmail.com
 - ⚡ Fun Fact, I know music production and video editing
 
